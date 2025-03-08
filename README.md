@@ -6,6 +6,8 @@ This project demonstrates the use of Power BI in the hospitality domain to analy
 
 The main objective is to build dynamic reports and dashboards that are visually appealing and easy to interpret for decision-makers in the hospitality industry.
 
+![image_alt](https://github.com/iamanirudhnair/Hospitality_Domain/blob/main/Hospitality_Dashboard.png?raw=true)
+
 ## What I Learned
 
 Throughout this project, I gained several valuable insights and learned the following:
